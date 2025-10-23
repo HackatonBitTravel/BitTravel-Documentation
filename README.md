@@ -13,8 +13,7 @@ BitTravel est une solution innovante permettant aux voyageurs au Sénégal et en
 2.  [Configuration]
 3.  [Démarrage rapide]
 4.  [Contraintes techniques]
-5.  [Indicateurs de suivi]
-6.  [Prochaine itération]
+5.  [Prochaine itération]
 
 ----------
 
